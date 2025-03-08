@@ -1,1 +1,1 @@
-from test_tool import opt_tool
+from test_tool.opt_tool import opt

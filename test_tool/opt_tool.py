@@ -32,7 +32,5 @@ class MsgOutput:
         with open(ttl_path, mode, encoding=enc) as f:
             print(msg, file=f)
 
-        print(cls.init)
-
 
 opt = MsgOutput.output
